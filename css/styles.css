@@ -16,6 +16,17 @@ header {
     padding: 20px;
 }
 
+header .pfp{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-image: url('./../img/pentagram-pfp.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: 0 auto;
+}
+
 header img{
     width: 200px;
     height: 200px;
